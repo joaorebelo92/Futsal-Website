@@ -1,7 +1,7 @@
 # Futsal Website
 
 
-A User friendly website made for Sector9 for showing news about Futsal in Leiria District or Nacional.
+A User friendly website made for Sector9 for showing news about Futsal in **Leiria District or National.** 
 In the website se the results of the games, the info on the teams, next and previous games.
 
 <b> Technologies used :</b> HTML,CSS,Bootstrap,JavaScript,Jquery,PHP,Mysql,Joomla
