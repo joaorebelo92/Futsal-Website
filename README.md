@@ -1,4 +1,4 @@
-# Infutsal Website
+# Futsal Website
 
 
 A User friendly website made for Sector9 for showing news about Futsal in Leiria District or Nacional.
